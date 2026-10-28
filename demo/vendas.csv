@@ -1,0 +1,21 @@
+id_venda;data_venda;produto;categoria;quantidade;preco_unitario
+1;2026-09-01;Notebook;Informatica;2;3499
+2;2026-09-01;Mouse;Perifericos;5;89
+3;2026-09-02;Teclado;Perifericos;3;249
+4;2026-09-02;Monitor;Informatica;1;1199
+5;2026-09-03;Headset;Perifericos;0;329
+6;2026-09-03;Webcam;Perifericos;4;279
+7;2026-09-04;SSD 1TB;Armazenamento;6;459
+8;2026-09-04;Cadeira Gamer;Moveis;1;1390
+9;2026-09-05;Notebook;Informatica;1;3499
+10;2026-09-05;Mouse;Perifericos;-1;89
+11;2026-09-08;Monitor;Informatica;2;1199
+12;2026-09-08;Teclado;Perifericos;2;249
+13;2026-09-09;SSD 1TB;Armazenamento;3;459
+14;2026-09-09;Headset;Perifericos;2;329
+15;2026-09-10;Webcam;Perifericos;0;279
+16;2026-09-10;Cadeira Gamer;Moveis;2;1390
+17;2026-09-11;Notebook;Informatica;3;3499
+18;2026-09-11;Mouse;Perifericos;10;89
+19;2026-09-12;Monitor;Informatica;1;1199
+20;2026-09-12;SSD 1TB;Armazenamento;4;459
